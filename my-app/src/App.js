@@ -1,6 +1,7 @@
 
 import './App.css';
 import OLMap from './components/map';
+import MapComponent from './components/map/Feature';
 
 function App() {
   return (

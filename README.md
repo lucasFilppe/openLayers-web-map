@@ -9,3 +9,5 @@
   - `Layer`(Camada): é o tipo de  imagem do mapa que você gostaria de ver no seu mapa
   - `target container`(container de destino)
 
+### `Aprendendo a usar: import Feature from 'ol/Feature.js';`
+Um objeto vetorial para características geográficas com uma geometria e outros propriedades de atributo, semelhantes aos recursos em formatos de arquivo vetoriais como GeoJSON.[https://openlayers.org/en/latest/apidoc/module-ol_Feature-Feature.html](Feature)
